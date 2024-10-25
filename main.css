@@ -37,7 +37,9 @@ p {
 }
 
 .album-art {
-
+	float: left;
+	margin-right: 20px;
+	border: 2px solid rgb(110, 17, 17);
 }
 
 .clear {
@@ -70,6 +72,7 @@ p {
 
 #copyright {
 	color: red;
+	text-align: center;
 
 }
 
